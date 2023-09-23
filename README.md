@@ -23,7 +23,7 @@ SplitChecksTipsy is a mobile IOS application designed to help friends split thei
 - Calculate individual shares of a restaurant bill including taxes and tips.
 - Split the bill equally among friends.
 - Customize tip percentage rate.
-- User-friendly and responsive web interface.
+- User-friendly.
 
 ## Getting Started
 
