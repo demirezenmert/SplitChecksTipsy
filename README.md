@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-SplitChecksTipsy is a simple web application designed to help friends split their restaurant bills more easily and accurately, especially when it comes to handling tips and taxes. This repository contains the source code and documentation for the application.
+SplitChecksTipsy is a mobile IOS application designed to help friends split their restaurant bills more easily and accurately, especially when it comes to handling tips. This repository contains the source code and documentation for the application.
 
 ## Table of Contents
 
