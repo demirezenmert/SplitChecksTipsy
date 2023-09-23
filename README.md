@@ -7,7 +7,7 @@ SplitChecksTipsy is a simple web application designed to help friends split thei
 
 ## Table of Contents
 
-- [Demo](#demo)
+
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -16,9 +16,7 @@ SplitChecksTipsy is a simple web application designed to help friends split thei
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
 
-You can see a live demo of SplitChecksTipsy [here](#insert_demo_link).
 
 ## Features
 
@@ -33,7 +31,7 @@ You can see a live demo of SplitChecksTipsy [here](#insert_demo_link).
 
 To run SplitChecksTipsy locally, you need the following software installed on your system:
 
-- Node.js: [Download and Install Node.js](https://nodejs.org/)
+- Xcode: [Download and Install Xcode]([https://nodejs.org/](https://developer.apple.com/xcode/))
 - Git: [Download and Install Git](https://git-scm.com/)
 
 ### Installation
@@ -49,22 +47,13 @@ To run SplitChecksTipsy locally, you need the following software installed on yo
    ```bash
    cd SplitChecksTipsy
    ```
-
-3. Install the project dependencies:
-
-   ```bash
-   npm install
-   ```
+   
 
 ## Usage
 
-1. Start the development server:
+1. Open 'Tipsy.xcodeproj' with Xcode
 
-   ```bash
-   npm start
-   ```
-
-2. Open your web browser and visit `http://localhost:3000` to use the application locally.
+2. Run Simulator
 
 3. Enter the bill amount, specify the number of friends, and adjust the tip  as needed.
 
